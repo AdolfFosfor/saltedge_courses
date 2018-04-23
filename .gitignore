@@ -54,3 +54,14 @@ build-iPhoneSimulator/
 Ianis/.DS_Store
 *.xml
 *.iml
+.DS_Store
+Ianis/.DS_Store
+Ianis/task2/ok.rb
+Ianis/task2/nice.rb
+Ianis/task2/point.rb
+Ianis/task3/.rspec
+Ianis/task3/array.rb
+Ianis/task3/spec/array_spec.rb
+Ianis/task3/spec/spec_helper.rb
+Ianis/task2/ok.rb
+Ianis/.DS_Store
